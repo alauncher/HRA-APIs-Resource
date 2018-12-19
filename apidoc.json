@@ -1,0 +1,10 @@
+{
+  "name": "华瑞安接口文档",
+  "version": "0.0.1",
+  "description": "本文是华瑞安定制Rom 提供给客户开发的接口文档指南。",
+  "title": "HRA Apis",
+  "template": {
+      "withCompare": true,
+      "withGenerator": false
+  }
+}
